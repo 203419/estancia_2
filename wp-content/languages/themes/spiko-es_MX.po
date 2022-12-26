@@ -1,0 +1,1565 @@
+# Translation of Themes - Spiko in Spanish (Mexico)
+# This file is distributed under the same license as the Themes - Spiko package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-15 08:33:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: es_MX\n"
+"Project-Id-Version: Themes - Spiko\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Spiko WordPress Theme is a lightweight, elegant, fully responsive, and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, eCommerce, finance, agency, travel, photography, design, arts, personal, and any other creative websites and blogs. The theme is developed using the Bootstrap 4 framework. It comes with a predesigned home page, good-looking header designs, and a number of content sections that you can easily customize. It also has lots of customization options (banner, services, testimonial, etc) that will help you create a beautiful, unique website in a short time. Spiko is compatible with popular plugins like Polylang, WooCommerce and Contact Form 7. Spiko theme is available in several locales. (DEMO: https://spiko.spicethemes.com/)"
+msgstr "El tema Spiko para WordPress es un tema ligero, elegante, totalmente adaptable y preparado para la traducción que te permite crear blogs y webs impresionantes. El tema es ideal para empresas, bufetes de abogados, comercio electrónico, finanzas, agencias, agencias de viajes, fotografía, diseño, arte, sitios personales y cualquier otra web o blog creativo. El tema está desarrollado con el framework Bootstrap 4. Viene con una página de inicio prediseñada, atractivos diseños de cabecera y varias secciones de contenido que puedes personalizar fácilmente. También tiene muchas opciones de personalización (banner, servicios, testimonios, etc.) que te ayudarán a crear una web bonita y única en poco tiempo. Spiko es compatible con plugins populares como Polylang, WooCommerce y Contact Form 7. El tema Spiko está disponible en varios idiomas. (DEMO: https://spiko.spicethemes.com/)"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Spiko"
+msgstr "Spiko"
+
+#: template-parts/content-search.php:38 template-parts/content.php:44
+msgid "blog-title"
+msgstr "blog-title"
+
+#: template-parts/content-search.php:23 template-parts/content-single.php:30
+#: template-parts/content.php:27
+msgid "Categories"
+msgstr "Categorías"
+
+#: template-parts/content-search.php:17 template-parts/content-single.php:23
+#: template-parts/content.php:22
+msgid "tag"
+msgstr "etiqueta"
+
+#: template-parts/content-none.php:5
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tu criterio de búsqueda. Por favor, inténtalo de nuevo con otras palabras clave."
+
+#: template-parts/content-none.php:4
+msgid "Nothing found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/auth-details.php:15
+msgid "View All Posts"
+msgstr "Ver Todas las Entradas"
+
+#: template-parts/auth-details.php:7
+msgid "Written by:"
+msgstr "Escrito por:"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Página a ancho completo"
+
+#: template-business.php:22
+msgid "This template shows the homepage sections, and to show these sections you have to activate the companion plugin."
+msgstr "Esta plantilla muestra las secciones de la página de inicio, y para mostrar estas secciones tienes que activar el plugin complementario."
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Plantilla para negocios"
+
+#: searchform.php:2
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/widgets/sidebars.php:60 inc/widgets/sidebars.php:62
+msgid "WooCommerce sidebar widget area"
+msgstr "Área de widget de la barra lateral de WooCommerce"
+
+#: inc/widgets/sidebars.php:50 inc/widgets/sidebars.php:52
+msgid "Footer widget 4"
+msgstr "Widget 4 del pie de página"
+
+#: inc/widgets/sidebars.php:42
+msgid "Footer widget area 3"
+msgstr "Área 3 de widgets del pie de página"
+
+#: inc/widgets/sidebars.php:40
+msgid "Footer widget 3"
+msgstr "Widget 3 del pie de página"
+
+#: inc/widgets/sidebars.php:32
+msgid "Footer widget area 2"
+msgstr "Área 2 de widgets del pie de página"
+
+#: inc/widgets/sidebars.php:30
+msgid "Footer widget 2"
+msgstr "Widget 2 del pie de página"
+
+#: inc/widgets/sidebars.php:22
+msgid "Footer widget area 1"
+msgstr "Área 1 de widgets del pie de página"
+
+#: inc/widgets/sidebars.php:20
+msgid "Footer widget 1"
+msgstr "Widget 1 del pie de página"
+
+#: inc/widgets/sidebars.php:10 inc/widgets/sidebars.php:12
+msgid "Sidebar widget area"
+msgstr "Área de widget de la barra lateral"
+
+#: inc/header/header-nav.php:39 inc/header/header-nav.php:47
+#: inc/header/header-nav.php:49
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/header/header-nav.php:13
+msgid "Toggle navigation"
+msgstr "Cambiar navegación"
+
+#: inc/customizer/single-blog-options.php:86
+msgid "Hide/Show Author Details"
+msgstr "Mostrar / Ocultar Detalles de Autor"
+
+#: inc/customizer/single-blog-options.php:72
+msgid "Hide/Show Tag"
+msgstr "Ocultar/Mostrar etiqueta"
+
+#: inc/customizer/single-blog-options.php:56
+msgid "Hide/Show Category"
+msgstr "Ocultar / Mostrar categoría"
+
+#: inc/customizer/single-blog-options.php:41
+msgid "Hide/Show Date"
+msgstr "Ocultar/mostrar fecha"
+
+#: inc/customizer/single-blog-options.php:26
+msgid "Hide/Show Author"
+msgstr "Ocultar / Mostrar el nombre del autor"
+
+#: inc/customizer/single-blog-options.php:11
+msgid "Single Post"
+msgstr "Entrada individual"
+
+#: inc/customizer/helper-function.php:167
+msgid "Proudly powered by <a href=\"https://wordpress.org\">WordPress</a> | Theme: <a href=\"https://spicethemes.com/spiko-wordpress-theme\" rel=\"nofollow\">Spiko</a> by <a href=\"https://spicethemes.com\" rel=\"nofollow\">Spicethemes</a>"
+msgstr "Funciona gracias a <a href=\"https://wordpress.org\"> WordPress</a> | Tema: <a href=\"https://spicethemes.com/spiko-wordpress-theme\" rel=\"nofollow\">Spiko</a> de <a href=\"https://spicethemes.com\" rel=\"nofollow\">SpiceThemes</a>"
+
+#: inc/customizer/helper-function.php:39
+msgid "%1$s  %2$s"
+msgstr "%1$s  %2$s"
+
+#: inc/customizer/helper-function.php:15 inc/customizer/helper-function.php:19
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr "<i class=\"fa fa-angle-double-right\"></i>"
+
+#: inc/customizer/helper-function.php:14 inc/customizer/helper-function.php:20
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr "<i class=\"fa fa-angle-double-left\"></i>"
+
+#: inc/customizer/general-settings.php:247
+#: inc/customizer/general-settings.php:263
+msgid "Container Width"
+msgstr "Ancho del contenedor"
+
+#: inc/customizer/general-settings.php:237
+msgid "Enable/Disable Cart Icon"
+msgstr "Activar / Desactivar el icono del carrito"
+
+#: inc/customizer/general-settings.php:221
+msgid "Enable/Disable Search Icon"
+msgstr "Activar / Desactivar el icono de búsqueda"
+
+#: inc/customizer/general-settings.php:186
+msgid "Button Border Radius"
+msgstr "Radio del borde del botón"
+
+#: inc/customizer/general-settings.php:170
+msgid "Open link in a new tab"
+msgstr "Abrir enlace en una pestaña nueva"
+
+#: inc/customizer/general-settings.php:154
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: inc/customizer/general-settings.php:126
+#: inc/customizer/general-settings.php:205
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/customizer/general-settings.php:125
+msgid "Button"
+msgstr "Botón"
+
+#: inc/customizer/general-settings.php:124
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer/general-settings.php:104
+#: inc/customizer/general-settings.php:119
+msgid "After Menu"
+msgstr "Después del menú"
+
+#: inc/customizer/general-settings.php:93
+msgid "Enable/Disable Scroll to Top"
+msgstr "Activar / Desactivar el desplazamiento hacia arriba"
+
+#: inc/customizer/general-settings.php:77
+msgid "Scroll to Top"
+msgstr "Hacer scroll al inicio"
+
+#: inc/customizer/general-settings.php:65
+msgid "Enable/Disable Sticky Header"
+msgstr "Activar / Desactivar la cabecera fija"
+
+#: inc/customizer/general-settings.php:49
+msgid "Sticky Header"
+msgstr "Cabecera sticky"
+
+#: inc/customizer/general-settings.php:38
+msgid "Enable/Disable Preloader"
+msgstr "Activar/desactivar el precargador"
+
+#: inc/customizer/general-settings.php:22
+msgid "Preloader"
+msgstr "Precargador"
+
+#: inc/customizer/customizer_typography.php:1788
+msgid "Footer Widget Content"
+msgstr "Contenido del widget de pie de página"
+
+#: inc/customizer/customizer_typography.php:1714
+msgid "Footer Widget Title"
+msgstr "Título del widget del pie de pagina"
+
+#: inc/customizer/customizer_typography.php:1699
+msgid "Enable Footer Widgets Typography"
+msgstr "Activar la tipografía de los widgets de pie de página"
+
+#: inc/customizer/customizer_typography.php:1618
+msgid "Sidebar Widget Content"
+msgstr "Contenido del widget de la barra lateral"
+
+#: inc/customizer/customizer_typography.php:1545
+msgid "Sidebar Widget Title"
+msgstr "Título del widget de la barra lateral"
+
+#: inc/customizer/customizer_typography.php:1530
+msgid "Enable Sidebar Widgets Typography"
+msgstr "Activar la tipografía de los widgets de la barra lateral"
+
+#: inc/customizer/customizer_typography.php:1516
+msgid "Sidebar Widgets"
+msgstr "Widgets de las barras laterales"
+
+#: inc/customizer/customizer_typography.php:1450
+msgid "Only for Product checkout page"
+msgstr "Sólo para la página de finalización de compra de productos"
+
+#: inc/customizer/customizer_typography.php:1375
+msgid "Only for product title in Shop Page"
+msgstr "Sólo para el título del producto en la página de la tienda"
+
+#: inc/customizer/customizer_typography.php:1299
+msgid "Only for product detail page"
+msgstr "Sólo para la página de detalles del producto"
+
+#: inc/customizer/customizer_typography.php:1282
+msgid "Enable Shop Page Typography"
+msgstr "Activar la tipografía de la página de la tienda"
+
+#: inc/customizer/customizer_typography.php:1268
+msgid "Shop Page"
+msgstr "Página de la tienda"
+
+#: inc/customizer/customizer_typography.php:1214
+msgid "Enable Blog/Archive/Single Post Typography"
+msgstr "Activar tipografías del blog / archivo / entrada individual"
+
+#: inc/customizer/customizer_typography.php:1200
+msgid "Blog/Archive/Single Post"
+msgstr "Blog / Archivo / Entrada individual"
+
+#: inc/customizer/customizer_typography.php:1133
+#: inc/customizer/general-settings.php:139
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/customizer/customizer_typography.php:1059
+msgid "Paragraph"
+msgstr "Párrafo"
+
+#: inc/customizer/customizer_typography.php:984
+msgid "Heading 6 (H6)"
+msgstr "Encabezado 6 (H6)"
+
+#: inc/customizer/customizer_typography.php:910
+msgid "Heading 5 (H5)"
+msgstr "Encabezado 5 (H5)"
+
+#: inc/customizer/customizer_typography.php:835
+msgid "Heading 4 (H4)"
+msgstr "Encabezado 4 (H4)"
+
+#: inc/customizer/customizer_typography.php:761
+#: inc/customizer/customizer_typography.php:1449
+msgid "Heading 3 (H3)"
+msgstr "Encabezado 3 (H3)"
+
+#: inc/customizer/customizer_typography.php:687
+#: inc/customizer/customizer_typography.php:1374
+msgid "Heading 2 (H2)"
+msgstr "Encabezado 2 (H2)"
+
+#: inc/customizer/customizer_typography.php:613
+#: inc/customizer/customizer_typography.php:1298
+msgid "Heading 1 (H1)"
+msgstr "Encabezado 1 (H1)"
+
+#: inc/customizer/customizer_typography.php:597
+msgid "Enable Content Typography"
+msgstr "Activar la tipografía del contenido"
+
+#: inc/customizer/customizer_typography.php:514
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: inc/customizer/customizer_typography.php:440
+msgid "Section Sub Title"
+msgstr "Subtítulo de la sección"
+
+#: inc/customizer/customizer_typography.php:423
+msgid "Enable Homepage Sections Typography"
+msgstr "Activar la tipografía de las secciones de la página de inicio"
+
+#: inc/customizer/customizer_typography.php:355
+msgid "Enable Slider Typography"
+msgstr "Activar la tipografía del carrusel"
+
+#: inc/customizer/customizer_typography.php:342
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer/customizer_typography.php:112
+#: inc/customizer/customizer_typography.php:185
+#: inc/customizer/customizer_typography.php:258
+#: inc/customizer/customizer_typography.php:332
+#: inc/customizer/customizer_typography.php:399
+#: inc/customizer/customizer_typography.php:498
+#: inc/customizer/customizer_typography.php:572
+#: inc/customizer/customizer_typography.php:670
+#: inc/customizer/customizer_typography.php:744
+#: inc/customizer/customizer_typography.php:818
+#: inc/customizer/customizer_typography.php:892
+#: inc/customizer/customizer_typography.php:967
+#: inc/customizer/customizer_typography.php:1042
+#: inc/customizer/customizer_typography.php:1116
+#: inc/customizer/customizer_typography.php:1191
+#: inc/customizer/customizer_typography.php:1258
+#: inc/customizer/customizer_typography.php:1357
+#: inc/customizer/customizer_typography.php:1432
+#: inc/customizer/customizer_typography.php:1507
+#: inc/customizer/customizer_typography.php:1602
+#: inc/customizer/customizer_typography.php:1675
+#: inc/customizer/customizer_typography.php:1771
+#: inc/customizer/customizer_typography.php:1845
+msgid "Line height (px)"
+msgstr "Altura de línea (px)"
+
+#: inc/customizer/customizer_typography.php:97
+#: inc/customizer/customizer_typography.php:170
+#: inc/customizer/customizer_typography.php:243
+#: inc/customizer/customizer_typography.php:317
+#: inc/customizer/customizer_typography.php:384
+#: inc/customizer/customizer_typography.php:483
+#: inc/customizer/customizer_typography.php:557
+#: inc/customizer/customizer_typography.php:655
+#: inc/customizer/customizer_typography.php:729
+#: inc/customizer/customizer_typography.php:803
+#: inc/customizer/customizer_typography.php:877
+#: inc/customizer/customizer_typography.php:952
+#: inc/customizer/customizer_typography.php:1027
+#: inc/customizer/customizer_typography.php:1101
+#: inc/customizer/customizer_typography.php:1176
+#: inc/customizer/customizer_typography.php:1243
+#: inc/customizer/customizer_typography.php:1341
+#: inc/customizer/customizer_typography.php:1417
+#: inc/customizer/customizer_typography.php:1492
+#: inc/customizer/customizer_typography.php:1587
+#: inc/customizer/customizer_typography.php:1660
+#: inc/customizer/customizer_typography.php:1756
+#: inc/customizer/customizer_typography.php:1830
+msgid "Font size (px)"
+msgstr "Tamaño de letra (px)"
+
+#: inc/customizer/customizer_typography.php:40
+msgid "Enable Header Typography"
+msgstr "Activar la tipografía de la cabecera"
+
+#: inc/customizer/customizer_theme_style.php:85
+msgid "Skin Color"
+msgstr "Color del tema"
+
+#: inc/customizer/customizer_theme_style.php:71
+msgid "Enable custom color skin"
+msgstr "Habilitar el color del tema personalizado"
+
+#: inc/customizer/customizer_theme_style.php:48
+msgid "Layout style"
+msgstr "Estilo de diseño"
+
+#: inc/customizer/customizer_theme_style.php:11
+msgid "Theme Layout"
+msgstr "Diseño del tema"
+
+#: inc/customizer/customizer_sections_settings.php:59
+msgid "Logo Width"
+msgstr "Ancho del logo"
+
+#: inc/customizer/customizer_color_back_settings.php:513
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/customizer/customizer_color_back_settings.php:504
+msgid "Paragraph Text Color"
+msgstr "Color de texto de párrafo"
+
+#: inc/customizer/customizer_color_back_settings.php:492
+msgid "H6 Color"
+msgstr "Color de H6"
+
+#: inc/customizer/customizer_color_back_settings.php:480
+msgid "H5 Color"
+msgstr "Color de H5"
+
+#: inc/customizer/customizer_typography.php:82
+#: inc/customizer/customizer_typography.php:155
+#: inc/customizer/customizer_typography.php:228
+#: inc/customizer/customizer_typography.php:302
+#: inc/customizer/customizer_typography.php:369
+#: inc/customizer/customizer_typography.php:468
+#: inc/customizer/customizer_typography.php:542
+#: inc/customizer/customizer_typography.php:640
+#: inc/customizer/customizer_typography.php:714
+#: inc/customizer/customizer_typography.php:788
+#: inc/customizer/customizer_typography.php:862
+#: inc/customizer/customizer_typography.php:937
+#: inc/customizer/customizer_typography.php:1011
+#: inc/customizer/customizer_typography.php:1086
+#: inc/customizer/customizer_typography.php:1160
+#: inc/customizer/customizer_typography.php:1228
+#: inc/customizer/customizer_typography.php:1326
+#: inc/customizer/customizer_typography.php:1402
+#: inc/customizer/customizer_typography.php:1477
+#: inc/customizer/customizer_typography.php:1572
+#: inc/customizer/customizer_typography.php:1645
+#: inc/customizer/customizer_typography.php:1741
+#: inc/customizer/customizer_typography.php:1815
+msgid "Font family"
+msgstr "Familia de la fuente"
+
+#: inc/customizer/customizer_color_back_settings.php:468
+msgid "H4 Color"
+msgstr "Color de H4"
+
+#: inc/customizer/customizer_color_back_settings.php:456
+msgid "H3 Color"
+msgstr "Color de H3"
+
+#: inc/customizer/customizer_color_back_settings.php:444
+msgid "H2 Color"
+msgstr "Color de H2"
+
+#: inc/customizer/customizer_color_back_settings.php:432
+msgid "H1 Color"
+msgstr "Color de H1"
+
+#: inc/customizer/customizer_color_back_settings.php:404
+#: inc/customizer/customizer_typography.php:583
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/customizer/customizer_color_back_settings.php:346
+msgid "Breadcrumb Title"
+msgstr "Título de los Breadcrumbs"
+
+#: inc/customizer/customizer_color_back_settings.php:332
+#: inc/customizer/customizer_color_back_settings.php:541
+#: inc/customizer/customizer_color_back_settings.php:626
+msgid "Title Color"
+msgstr "Color del título"
+
+#: inc/customizer/customizer_color_back_settings.php:306
+msgid "Banner Title"
+msgstr "Título del banner"
+
+#: inc/customizer/customizer_color_back_settings.php:293
+msgid "Banner"
+msgstr "Banner"
+
+#: inc/customizer/customizer_color_back_settings.php:260
+#: inc/customizer/customizer_color_back_settings.php:614
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/customizer/customizer_color_back_settings.php:234
+#: inc/customizer/customizer_typography.php:275
+msgid "Submenus"
+msgstr "Submenús"
+
+#: inc/customizer/customizer_color_back_settings.php:220
+msgid "Active Link Color"
+msgstr "Color de enlace activo"
+
+#: inc/customizer/customizer_color_back_settings.php:196
+#: inc/customizer/customizer_color_back_settings.php:272
+msgid "Text/Link Color"
+msgstr "Color del texto/enlace"
+
+#: inc/customizer/customizer_color_back_settings.php:170
+#: inc/customizer/customizer_typography.php:201
+msgid "Menus"
+msgstr "Menús"
+
+#: inc/customizer/customizer_color_back_settings.php:140
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: inc/customizer/customizer_color_back_settings.php:131
+#: inc/customizer/customizer_color_back_settings.php:553
+#: inc/customizer/customizer_color_back_settings.php:638
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: inc/customizer/customizer_color_back_settings.php:105
+#: inc/customizer/customizer_typography.php:128
+msgid "Site Tagline"
+msgstr "Descripción corta del sitio"
+
+#: inc/customizer/customizer_color_back_settings.php:91
+#: inc/customizer/customizer_color_back_settings.php:208
+#: inc/customizer/customizer_color_back_settings.php:284
+#: inc/customizer/customizer_color_back_settings.php:395
+#: inc/customizer/customizer_color_back_settings.php:577
+#: inc/customizer/customizer_color_back_settings.php:662
+msgid "Link Hover Color"
+msgstr "Color de enlace al pasar por encima"
+
+#: inc/customizer/customizer_color_back_settings.php:79
+#: inc/customizer/customizer_color_back_settings.php:383
+#: inc/customizer/customizer_color_back_settings.php:565
+#: inc/customizer/customizer_color_back_settings.php:650
+msgid "Link Color"
+msgstr "Color del enlace"
+
+#: inc/customizer/customizer_color_back_settings.php:53
+#: inc/customizer/customizer_typography.php:55
+msgid "Site Title"
+msgstr "Título del sitio"
+
+#: inc/customizer/customizer_color_back_settings.php:39
+#: inc/customizer/customizer_color_back_settings.php:156
+#: inc/customizer/customizer_color_back_settings.php:359
+#: inc/customizer/customizer_color_back_settings.php:420
+#: inc/customizer/customizer_color_back_settings.php:529
+#: inc/customizer/customizer_color_back_settings.php:602
+msgid "Click here to apply the below color settings"
+msgstr "Haz clic aquí para aplicar los siguientes ajustes de color"
+
+#: inc/customizer/customizer_color_back_settings.php:22
+#: inc/customizer/customizer_typography.php:26
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer/customizer_color_back_settings.php:15
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer/customizer-recommended-plugin.php:17
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/customizer/customizer-recommended-plugin.php:15
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: inc/customizer/customizer-recommended-plugin.php:14
+msgid "Recommended Plugin"
+msgstr "Plugin recomendado"
+
+#: inc/customizer/customizer-recommended-plugin.php:9
+msgid "Install and activate the %s plugin to take full advantage of all the features this theme has to offer."
+msgstr "Instala y activa el plugin %s para poder disfrutar de todas las características de este tema."
+
+#: inc/customizer/customizer-pro-feature.php:113
+msgid "Dedicated support, widget and sidebar management."
+msgstr "Soporte dedicado, gestión de widgets y barras laterales."
+
+#: inc/customizer/customizer-pro-feature.php:112
+msgid "24/7 professional support for Google Maps."
+msgstr "Soporte profesional 24/7 para Google Maps"
+
+#: inc/customizer/customizer-pro-feature.php:111
+msgid "Translation-ready, the theme supports popular plugins WPML and Polylang."
+msgstr "Preparado para traducción, el tema es compatible con los plugins más populares, WPML y Polylang"
+
+#: inc/customizer/customizer-pro-feature.php:110
+msgid "The theme comes with a homepage sections shortcode used to add the homepage sections in other pages with any combination."
+msgstr "El tema viene con un shortcode de secciones de página de inicio utilizadas para añadir las secciones de página de inicio en otras páginas en cualquier combinación que desees."
+
+#: inc/customizer/customizer-pro-feature.php:109
+msgid "The layout manager will help you rearrange all sections."
+msgstr "El gestor de diseños te ayudará a reorganizar todas las secciones."
+
+#: inc/customizer/customizer-pro-feature.php:108
+msgid "You can select amongst predefined color skins, or you can create your own without writing any CSS code."
+msgstr "Puedes elegir entre paletas de color preseleccionadas o crear la tuya propia, sin tener que escribir nada de código CSS."
+
+#: inc/customizer/customizer-pro-feature.php:107
+msgid "Show all your team members, clients, testimonials on front page."
+msgstr "Muestra a todos los miembros de tu equipo, a tus clientes y testimonios en la página de inicio."
+
+#: inc/customizer/customizer-pro-feature.php:106
+msgid "Theme comes with a beautifully designed section where you can manage your contact details."
+msgstr "El tema viene con una sección magnificamente diseñada donde puedes administrar tus datos de contacto."
+
+#: inc/customizer/customizer-pro-feature.php:105
+msgid "Add as many services as you like. You can even display each service on a separate page."
+msgstr "Añade tantos servicios como quieras. Incluso puedes mostrar cada servicio en páginas independientes."
+
+#: inc/customizer/customizer-pro-feature.php:104
+msgid "PRO version comes with slide variation options, so you can adjust your content through text alignment."
+msgstr "La versión Pro del tema viene con varias variaciones de diapositivas como, por ejemplo, ajustar la alineación del texto del contenido."
+
+#: inc/customizer/customizer-pro-feature.php:103
+msgid "Create a professional-looking portfolio."
+msgstr "Crea un porfolio de aspecto profesional."
+
+#: inc/customizer/customizer-pro-feature.php:102
+msgid "The theme comes with multiple blog templates like blog switcher, blog list view, and blog masonry etc."
+msgstr "El tema viene con muchas plantillas de blog como conmutador de blog, vista de listado de blog, vista de muro de blog, etc."
+
+#: inc/customizer/customizer-pro-feature.php:101
+msgid "With individual hook settings, you can insert html or php code according to your needs."
+msgstr "Hay ajustes individuales de ganchos con los que puedes insertar código html o php según tus necesidades."
+
+#: inc/customizer/customizer-pro-feature.php:76
+msgid "View PRO Details"
+msgstr "Ver los detalles de PRO"
+
+#: inc/customizer/customizer-pro-feature.php:69
+msgid "UPGRADE TO PRO"
+msgstr "MEJORAR A PRO"
+
+#: inc/customizer/customizer-pro-feature.php:66
+msgid "Quality Support"
+msgstr "Soporte de calidad"
+
+#: inc/customizer/customizer-pro-feature.php:62
+msgid "Sections Shortcode"
+msgstr "Shortcode de secciones"
+
+#: inc/customizer/customizer-pro-feature.php:58
+msgid "Section Reordering"
+msgstr "Reordenado de sección"
+
+#: inc/customizer/customizer-pro-feature.php:54
+msgid "Custom Color Schemes"
+msgstr "Esquemas de color personalizados"
+
+#: inc/customizer/customizer-pro-feature.php:50
+msgid "Team Variations"
+msgstr "Variaciones del equipo"
+
+#: inc/customizer/customizer-pro-feature.php:46
+msgid "Client Section"
+msgstr "Sección Clientes"
+
+#: inc/customizer/customizer-pro-feature.php:42
+msgid "Testimonial Variations"
+msgstr "Variaciones de los testimonios"
+
+#: inc/customizer/customizer-pro-feature.php:38
+msgid "Manage Contact Details"
+msgstr "Administrar detalles de contacto"
+
+#: inc/customizer/customizer-pro-feature.php:34
+msgid "Callout Section"
+msgstr "Ajustes del aviso"
+
+#: inc/customizer/customizer-pro-feature.php:30
+msgid "Create Unlimited Services"
+msgstr "Crea servicios ilimitados"
+
+#: inc/customizer/customizer-pro-feature.php:26
+msgid "Slide Variations"
+msgstr "Variaciones de diapositivas"
+
+#: inc/customizer/customizer-pro-feature.php:22
+msgid "Portfolio Management"
+msgstr "Gestión de porfolio"
+
+#: inc/customizer/customizer-pro-feature.php:18
+msgid "Multiple Blog Templates"
+msgstr "Varias plantillas de blog"
+
+#: inc/customizer/customizer-pro-feature.php:14
+msgid "Advanced Hook Settings"
+msgstr "Ajustes avanzados de los ganchos"
+
+#: inc/customizer/customizer-pro-feature.php:13
+#: inc/customizer/customizer-pro-feature.php:17
+#: inc/customizer/customizer-pro-feature.php:21
+#: inc/customizer/customizer-pro-feature.php:25
+#: inc/customizer/customizer-pro-feature.php:29
+#: inc/customizer/customizer-pro-feature.php:33
+#: inc/customizer/customizer-pro-feature.php:37
+#: inc/customizer/customizer-pro-feature.php:41
+#: inc/customizer/customizer-pro-feature.php:45
+#: inc/customizer/customizer-pro-feature.php:49
+#: inc/customizer/customizer-pro-feature.php:53
+#: inc/customizer/customizer-pro-feature.php:57
+#: inc/customizer/customizer-pro-feature.php:61
+#: inc/customizer/customizer-pro-feature.php:65
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/customizer/blog-page-options.php:16
+msgid "Main Title"
+msgstr "Título principal"
+
+#: inc/customizer/blog-options.php:77
+msgid "Drag And Drop To Rearrange"
+msgstr "Arrastrar y soltar para reordenar"
+
+#: inc/customizer/blog-options.php:65
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: inc/customizer/blog-options.php:64
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/customizer/blog-options.php:63
+msgid "Author"
+msgstr "Autor"
+
+#: inc/customizer/blog-options.php:51
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer/blog-options.php:36
+msgid "Full Content"
+msgstr "Contenido completo"
+
+#: inc/customizer/blog-options.php:35
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: inc/customizer/blog-options.php:30
+msgid "Choose Options"
+msgstr "Escoger opciones"
+
+#: inc/customizer/blog-options.php:23
+msgid "excerpt"
+msgstr "extracto"
+
+#: inc/customizer/blog-options.php:13
+msgid "Blog Page"
+msgstr "Página del blog"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han terminado."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Está comenzando el proceso de instalación. Este proceso puede tardar un poco en algunos servicios de hosting, ten paciencia por favor."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Han terminado todas las instalaciones y activaciones."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Ver detalles"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Está comenzando el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servicios de hosting, ten paciencia por favor."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Falló la activación del plugin."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para activar en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se realizará ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para actualizar en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para instalar en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se realizará ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins que instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Updates Available <span class=\"count\">(%s)</span>"
+msgid_plural "Updates Available <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> actualización disponible"
+msgstr[1] "<span class=\"count\">(%s)</span> actualizaciones disponibles"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update Not Available"
+msgstr "Actualización requerida no disponible"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado pero inactivo"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No está instalado"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendados"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Obligatorio"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización requerida"
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta al administrador de este sitio."
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins requeridos o recomendados pendientes de instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se realizó ninguna acción. El plugin %1$s ya estaba activo."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugin se han activado correctamente:"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar la activación del plugin"
+msgstr[1] "Comenzar la activación de los plugins"
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar la actualización del plugin"
+msgstr[1] "Comenzar la actualización de los plugins"
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar la instalación del plugin"
+msgstr[1] "Comenzar la instalación de los plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Este plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Estos plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Este plugin requerido está inactivo: %1$s."
+msgstr[1] "Estos plugins requeridos están inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible de %1$s."
+msgstr[1] "Hay actualizaciones disponibles de %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Este plugin debe actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Estos plugins deben actualizarse a sus últimas versiones para garantizar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: inc/breadcrumbs/breadcrumbs.php:101
+msgid "Tag: "
+msgstr "Etiqueta: "
+
+#: inc/breadcrumbs/breadcrumbs.php:89
+msgid "Category: "
+msgstr "Categoría:"
+
+#: inc/breadcrumbs/breadcrumbs.php:85
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/breadcrumbs/breadcrumbs.php:51 inc/breadcrumbs/breadcrumbs.php:60
+#: inc/customizer/blog-page-options.php:12 inc/menu/default_menu_walker.php:20
+msgid "Home"
+msgstr "Inicio"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:158
+msgid "Read More"
+msgstr "Leer más"
+
+#: functions.php:103
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:62
+msgid "Page"
+msgstr "Página"
+
+#: comments.php:86
+msgid "Leave a Reply"
+msgstr "Deja un comentario"
+
+#: comments.php:83
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: comments.php:81
+msgid "Log out"
+msgstr "Desconectar"
+
+#: comments.php:81
+msgid "Log out from this Account"
+msgstr "Salir de esta cuenta"
+
+#: comments.php:81
+msgid "Logged in as"
+msgstr "Registrado como"
+
+#: comments.php:79
+msgid "Message"
+msgstr "Mensaje"
+
+#: comments.php:66
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:62
+msgid "Your Email"
+msgstr "Tu correo electrónico"
+
+#: comments.php:59
+msgid "Your Name"
+msgstr "Tu nombre"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#. translators: 1: title.
+#: comments.php:29
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: admin/tab-pages/getting-started.php:155
+msgid "Changelog"
+msgstr "Informe de cambios"
+
+#: admin/tab-pages/getting-started.php:151
+msgid "Free vs Plus"
+msgstr "Gratis vs. Plus"
+
+#: admin/tab-pages/getting-started.php:147
+msgid "Pre-sales enquiry"
+msgstr "Consulta de preventa"
+
+#: admin/tab-pages/getting-started.php:143
+msgid "Spiko Plus Details"
+msgstr "Detalles de Spiko Plus"
+
+#: admin/tab-pages/getting-started.php:139
+msgid "Your feedback is valuable to us"
+msgstr "Tu feedback es muy valioso para nosotros"
+
+#: admin/tab-pages/getting-started.php:135
+msgid "Spiko Theme Support"
+msgstr "Soporte para el tema Spiko"
+
+#: admin/tab-pages/getting-started.php:131
+msgid "Spiko Plus Demo"
+msgstr "Demo de Spiko Plus"
+
+#: admin/tab-pages/getting-started.php:128
+msgid "Spiko Demo"
+msgstr "Demo de Spiko"
+
+#: admin/tab-pages/getting-started.php:124
+msgid "Useful Links"
+msgstr "Enlaces útiles"
+
+#: admin/tab-pages/getting-started.php:117
+#: inc/customizer/customizer_theme_style.php:59
+msgid "Theme Style Settings"
+msgstr "Ajustes de estilo del tema"
+
+#: admin/tab-pages/getting-started.php:114
+#: inc/customizer/customizer_typography.php:7
+msgid "Typography Settings"
+msgstr "Ajustes de tipografías"
+
+#: admin/tab-pages/getting-started.php:111
+#: inc/customizer/customizer_color_back_settings.php:11
+msgid "Colors & Background"
+msgstr "Colores y fondo"
+
+#: admin/tab-pages/getting-started.php:108
+#: inc/customizer/general-settings.php:14
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: admin/tab-pages/getting-started.php:105
+#: inc/customizer/customizer_typography.php:409
+msgid "Homepage Sections"
+msgstr "Secciones de la página de inicio"
+
+#: admin/tab-pages/getting-started.php:102
+#: inc/customizer/customizer_color_back_settings.php:586
+#: inc/customizer/customizer_typography.php:1685
+#: inc/customizer/general-settings.php:275
+#: inc/customizer/general-settings.php:288
+msgid "Footer Widgets"
+msgstr "Widgets del pie de página"
+
+#: admin/tab-pages/getting-started.php:99
+#: inc/customizer/customizer_sections_settings.php:45
+msgid "Blog Options"
+msgstr "Opciones de blog"
+
+#: admin/tab-pages/getting-started.php:96
+msgid "Site Logo"
+msgstr "Logo del sitio"
+
+#: admin/tab-pages/getting-started.php:92
+msgid "Links to Customizer Settings"
+msgstr "Enlaces a los ajustes del personalizador"
+
+#: admin/tab-pages/getting-started.php:82
+msgid "Homepage Sections Shortcode"
+msgstr "Shortcode de secciones de página de inicio"
+
+#: admin/tab-pages/getting-started.php:78
+msgid "Homepage Sections Before/After Hooks"
+msgstr "Ganchos antes y después de las secciones de página de inicio"
+
+#: admin/tab-pages/getting-started.php:75
+msgid "Testimonial section with grid effect"
+msgstr "Sección de testimonios con efecto cuadrícula"
+
+#: admin/tab-pages/getting-started.php:72
+msgid "Shop section with carousel effect"
+msgstr "Sección de tienda con efecto carrusel"
+
+#: admin/tab-pages/getting-started.php:69
+msgid "Shop section with unlimited items"
+msgstr "Sección de tienda con artículos ilimitados"
+
+#: admin/tab-pages/getting-started.php:65
+msgid "Team section with grid effect"
+msgstr "Sección del equipo con efecto cuadrícula"
+
+#: admin/tab-pages/getting-started.php:61
+msgid "Drag and drop section orders"
+msgstr "Arrastrar y soltar el orden de las secciones"
+
+#: admin/tab-pages/getting-started.php:57
+msgid "WPML support"
+msgstr "Soporte para WPML"
+
+#: admin/tab-pages/getting-started.php:53
+msgid "Multiple Blog templates"
+msgstr "Varias plantillas de blog"
+
+#: admin/tab-pages/getting-started.php:50
+msgid "Client section"
+msgstr "Sección de clientes"
+
+#: admin/tab-pages/getting-started.php:47
+msgid "Google Maps section"
+msgstr "Sección mapa de Google"
+
+#: admin/tab-pages/getting-started.php:44
+msgid "Funfact section"
+msgstr "Sección de hechos"
+
+#: admin/tab-pages/getting-started.php:41
+msgid "Portfolio section"
+msgstr "Sección Porfolio"
+
+#: admin/tab-pages/getting-started.php:38
+msgid "Boxed layout support"
+msgstr "Compatibilidad con diseño en caja"
+
+#: admin/tab-pages/getting-started.php:35
+msgid "Unlimited services"
+msgstr "Servicios ilimitados"
+
+#: admin/tab-pages/getting-started.php:32
+msgid "Unlimited slides"
+msgstr "Diapositivas ilimitadas"
+
+#: admin/tab-pages/getting-started.php:28
+msgid "Additional features in Spiko Plus"
+msgstr "Funciones adicionales de Spiko Plus"
+
+#: admin/tab-pages/getting-started.php:10
+msgid "Spiko Theme Configuration"
+msgstr "Configuración del tema Spiko"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Activar ahora"
+
+#: admin/inc/include-companion.php:97
+msgid "Activate Spice Box now"
+msgstr "Activar Spice Box ahora"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the Spice Box plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "Has instalado el plugin Spice Box. Debes activarlo para aprovechar las funcionalidades de este tema en el personalizador."
+
+#: admin/inc/include-companion.php:80
+msgid "Install Spice Box Now"
+msgstr "Instalar Spice Box ahora"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the Spice Box plugin."
+msgstr "Para aprovechar las características de este tema en el personalizador necesitas instalar el plugin Spice Box."
+
+#: admin/inc/class-spicethemes-about-page.php:521
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr "Instala el plugin Yoast SEO para mostrar las migas de pan."
+
+#: admin/inc/class-spicethemes-about-page.php:519 functions.php:206
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:515
+msgid "To create a shop page you just need to install this plugin & activate it."
+msgstr "Para crear una página de tienda sólo tienes que instalar este plugin y activarlo."
+
+#: admin/inc/class-spicethemes-about-page.php:513
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/inc/class-spicethemes-about-page.php:510
+msgid "You can add different banner image for a different page or post according to you."
+msgstr "Puedes añadir una imagen de banner diferente para cada página o entrada diferente según tu gusto."
+
+#: admin/inc/class-spicethemes-about-page.php:508 functions.php:201
+msgid "Unique Headers"
+msgstr "Cabeceras únicas"
+
+#: admin/inc/class-spicethemes-about-page.php:504
+msgid "To display the contact form, please install the Contact Form 7 plugin."
+msgstr "Instala el plugin Contact Form 7 para mostrar el formulario de contacto."
+
+#: admin/inc/class-spicethemes-about-page.php:502 functions.php:191
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:498
+msgid "To access the advanced Frontpage sections and the other features, please install the Spice Box plugin."
+msgstr "Para acceder a las secciones avanzadas de la Página de Inicio y a las demás funciones, instala el plugin Spice Box."
+
+#: admin/inc/class-spicethemes-about-page.php:496
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+#: functions.php:196
+msgid "Spice Box"
+msgstr "Spice Box"
+
+#: admin/inc/class-spicethemes-about-page.php:353
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: admin/inc/class-spicethemes-about-page.php:350
+#: inc/class-tgm-plugin-activation.php:2726
+#: inc/customizer/customizer-recommended-plugin.php:16
+msgid "Activate"
+msgstr "Activar"
+
+#: admin/inc/class-spicethemes-about-page.php:348
+msgid "Activate %s now"
+msgstr "Activar %s ahora"
+
+#: admin/inc/class-spicethemes-about-page.php:331
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Instalar y activar"
+
+#: admin/inc/class-spicethemes-about-page.php:329
+msgid "Install %s now"
+msgstr "Instalar %s ahora"
+
+#: admin/inc/class-spicethemes-about-page.php:251
+#: inc/customizer/customizer-recommended-plugin.php:13
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: admin/inc/class-spicethemes-about-page.php:245
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: admin/inc/class-spicethemes-about-page.php:133
+msgid "Get started with Spiko theme"
+msgstr "Primeros pasos con el tema Spiko"
+
+#: admin/inc/class-spicethemes-about-page.php:132
+msgid "Spiko theme is installed. To take full advantage of the features this theme has to offer visit our %1$swelcome page%2$s"
+msgstr "El tema Spiko está instalado. Para aprovechar al máximo las funcionalidades que ofrece este tema, visita nuestra %1$spágina de bienvenida%2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:119
+msgid "Welcome to %1$s %2$s"
+msgstr "Bienvenido a %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:118
+msgid "About %1$s %2$s"
+msgstr "Sobre %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:110
+msgid "View Theme Info"
+msgstr "Ver información del tema"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "Error"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+#: inc/customizer-notify/spiko-customizer-notify.php:109
+msgid "Activating"
+msgstr "Activando"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "Instalando"
+
+#: 404.php:19
+msgid "Back to Homepage"
+msgstr "Volver a la página principal"
+
+#: 404.php:17
+msgid "We're not being able to find the page you're looking for"
+msgstr "No podemos encontrar la página que estás buscando"
+
+#: 404.php:16
+msgid "Oops! Page is not available"
+msgstr "Página no disponible"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com/spiko-wordpress-theme/"
+msgstr "https://spicethemes.com/spiko-wordpress-theme/"
